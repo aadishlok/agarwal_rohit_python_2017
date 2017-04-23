@@ -188,7 +188,7 @@ Packages Used -:
     
 ##### Assumption 2-:
   - As GLOBAL Waring Increasing
-  - There should be a increase in the price of Solar Energy.
+  - There should be a decrease in the price of Solar Energy.
     
 ##### Now, Does Weather affects Solar Energy Generation.
 
@@ -209,10 +209,10 @@ Packages Used -:
 ##### Here I can see a huge difference in stock price because .
   - The Consumption of Solar Energy is increased from past years.
   - We can see the stock price is alomost doubled from 2012 to 2016.
-  - Which indicates Global Warming is directly propotional to Renewable energy.
+  - Which indicates impact of increasing remperatures is directly propotional to the utiliztion of Renewable energy.
     
 ##### Assumption 2-:
-  - There should be a increase in the price of Wind Energy.
+  - There should be a increase in the utilization of Wind Energy.
     
 ##### Now, Does Weather affects Wind Energy Generation.
 
@@ -229,16 +229,16 @@ Packages Used -:
   <img src="analysis/ana_[1-3]/Analysis 1/Weather VS WIND Stock.png" />
   
 ##### Assumptions -:
-##### Here I can see a Huge Huge difference in stock price.
+##### Here I can see a Huge difference in stock price.
   - We can see the stock price is alomost increased 80 times from 2012 to 2016.
-  - Which indicates Global Warming is directly propotional to Renewable energy.
+  - Which indicates Global Warming is directly propotional to the utilization of Renewable energy.
     
 ### Final Conclusion
   - Weather Plays a major role in stock price.
   - As Annual mean of weather is increasing every year.
   - Global Warming is also Increasing.
-  - At the same time uses of Renewable Energy is also increasing Annualy.
-  - Non Renewable energy is stagnant due to other usages.
+  - At the same time use of Renewable Energy is also increasing Annualy.
+  - Non Renewable energy is stagnant and has not descended due to other usages.
   
 ##### Note-:
   - This Comparision is done on Annual Temperature.
@@ -399,9 +399,9 @@ Packages Used -:
   
 ## 7. Final Conclusion of Study
    - Weather Plays a major role in stock price.
-   - As Annual mean of weather is increasing every year by which Global Warming is increasing.
-   - At the same time uses of Renewable Energy is also increasing Annualy.
-   - Non Renewable energy is stagnant due to other usages.
+   - Increasing Annual mean of temperature indicates greater impact of Global Warming.
+   - Simultaneously utilization of Renewable Energy is also increasing Annualy.
+   - Utilization of Non Renewable energy is decreasing but the stock price is stagnant due to other usages.
    - The past decade has seen a steep rise in global temperatures and ancient and historical environmental studies have painted a grim picture revealing the current timeline to be the warmest.
    - The rise of solar is consistently progressing, wind power consumption as a means to produce energy has shot through the roof.
    - Oil meanwhile has simultaneously regressed.
